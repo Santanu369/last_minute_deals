@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "32137384287",
+    "project_id": "lastminutesdeal",
+    "storage_bucket": "lastminutesdeal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32137384287:android:c0690d02db0777df9ea6ea",
+        "android_client_info": {
+          "package_name": "com.twwios.lmd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32137384287-j220304o5bkqj3lmk36d9c9pvtcmo24j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.twwios.lmd",
+            "certificate_hash": "3b0f0e31fcbbcf765d0359fbf840ed2892ce6491"
+          }
+        },
+        {
+          "client_id": "32137384287-ln7baegfucbgu6a4rt7mo0d1epgh422h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.twwios.lmd",
+            "certificate_hash": "cf8d65209237e114f18c77b5237d29dcb6c64c85"
+          }
+        },
+        {
+          "client_id": "32137384287-u67qhg9s3j69it0eqj8tdkt749tu53fp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.twwios.lmd",
+            "certificate_hash": "36b8e477d39fec29f6e9ba16dd5677950f493505"
+          }
+        },
+        {
+          "client_id": "32137384287-v9cbm6ln24jsfvnenrtn06mefbf3uie2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.twwios.lmd",
+            "certificate_hash": "aa43c10b48e4bcfee395c6a01c9060042aa705d3"
+          }
+        },
+        {
+          "client_id": "32137384287-m8o6v4rsnkmh2m6t48p0lg73pa6skeir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9mpPN1CJK_2i0d_KTtH3xC6e6GaP0feE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32137384287-m8o6v4rsnkmh2m6t48p0lg73pa6skeir.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "32137384287-5krn8o4vsudcnjj98hq13tfnsh7v07qk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.twwios.lmd"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

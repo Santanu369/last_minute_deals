@@ -1,0 +1,6 @@
+{
+  "cmake.ignoreCMakeListsMissing": true,
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "liveServer.settings.port": 5501,
+  "dart.flutterSdkPath": ".fvm/versions/3.41.1"
+}
